@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "outDir": "dist",
+    "lib": ["dom", "es2015"],
+    "sourceMap": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "skipLibCheck": true,
+  },
+  "exclude": [
+    "node_modules",
+    "static"
+  ]
+}
