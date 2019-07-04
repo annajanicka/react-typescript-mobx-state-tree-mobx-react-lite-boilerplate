@@ -1,5 +1,5 @@
 {
-  "name": "hexo-theme-react-mobx-typescript",
+  "name": "react-typescript-mobx-state-tree-mobx-react-lite-boilerplate",
   "version": "1.0.0",
   "description": "Boilerplate: React project with Typescript + MST + mobx-react-lite, ES6 compilation and hot code reloading",
   "scripts": {
@@ -15,8 +15,8 @@
     "boilerplate",
     "mobx",
     "starter-kit",
-    "hexo",
-    "hexo-theme"
+    "mobx-state-tree",
+    "mobx-react-lite"
   ],
   "author": "Anna Janicka <annajanicka1991@gmail.com> (http://github.com/annajanicka)",
   "license": "MIT",
