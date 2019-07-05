@@ -1,6 +1,6 @@
 import * as React from 'react';
 import Layout from "./layout";
-import StoreProvider from "./tools/context";
+import StoreProvider from "./tools/StoreProvider";
 
 export interface IAppProps {
   router: React.ComponentType;

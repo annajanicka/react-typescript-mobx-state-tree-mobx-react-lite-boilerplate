@@ -1,4 +1,4 @@
-import { storeContext } from "./context";
+import { storeContext } from "./StoreProvider";
 import { RootStoreType } from "../stores/root.store";
 import { useStoreData } from "./useStoreData";
 

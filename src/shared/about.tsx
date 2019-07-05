@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { useRootData } from '../tools/hook';
+import { useRootData } from '../tools/useRootData';
 
 export const AboutView: React.FC<{ toggle: () => void, isVisible: boolean }> = ({ toggle, isVisible }) => {
   return (

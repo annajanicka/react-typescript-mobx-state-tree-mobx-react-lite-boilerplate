@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { PostModelType } from '../stores/posts.store';
 import About from '../shared/about';
-import { useRootData } from '../tools/hook';
+import { useRootData } from '../tools/useRootData';
 
 export const HomePageView: React.FC<{ load: any, posts: Array<PostModelType> }> = ({ posts, load }) =>
   <div>
